@@ -1,0 +1,27 @@
+img{
+    width: 100px;
+    height: 25px;
+}
+
+.imgs{
+    width: 35cm;
+    height: 10cm;
+}
+
+.btn{
+    font-size: larger;
+    background-color: blue;
+    color: white;
+    width: 4cm;
+    height: 1.5cm;
+}
+
+.ref{
+    text-align: right;
+}
+
+.pad{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid grey 2px;
+}
